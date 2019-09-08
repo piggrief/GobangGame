@@ -1,0 +1,60 @@
+D:\study\C#课程设计\五子棋2\五子棋2\bin\Debug\五子棋2.exe.config
+D:\study\C#课程设计\五子棋2\五子棋2\bin\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2\五子棋2\bin\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2\五子棋2\obj\Debug\五子棋2.Form1.resources
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\bin\Debug\五子棋2.exe.config
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\bin\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\bin\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.Form1.resources
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+D:\study\C#课程设计\五子棋2 - ab\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe.config
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Form1.resources
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+D:\study\C#课程设计\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe.config
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.exe
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.pdb
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.pdb
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Form1.resources
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\五子棋2 - 简单AI\五子棋2\bin\Debug\MaterialSkin.dll
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe.config
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.pdb
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\bin\Debug\MaterialSkin.dll
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Form1.resources
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+D:\study\C#课程设计\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\五子棋3\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\bin\Debug\五子棋2.exe.config
+E:\Visual Studio 2015\五子棋3\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.exe
+E:\Visual Studio 2015\五子棋3\五子棋2 - UI\五子棋2 - 简单AI\五子棋2\obj\Debug\五子棋2.pdb
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\MaterialSkin.dll
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\五子棋2.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.exe.config
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.exe
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.pdb
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.Form1.resources
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.Properties.Resources.resources
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.exe
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.pdb

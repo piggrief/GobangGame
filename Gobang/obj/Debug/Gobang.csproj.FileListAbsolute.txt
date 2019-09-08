@@ -1,0 +1,45 @@
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.exe.config
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.exe
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Gobang.pdb
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\MaterialSkin.dll
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.Form1.resources
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.Properties.Resources.resources
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.exe
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.pdb
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2015\五子棋\五子棋2\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\五子棋\五子棋2\obj\Debug\Gobang.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\Gobang.exe.config
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.exe
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.pdb
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\Gobang.exe
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\Gobang.pdb
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\MaterialSkin.dll
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\Interop.WMPLib.dll
+E:\Visual Studio 2015\Gobang\Gobang\bin\Debug\AxInterop.WMPLib.dll
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.Form1.resources
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.Properties.Resources.resources
+E:\Visual Studio 2015\Gobang\Gobang\obj\Debug\Gobang.csproj.GenerateResource.Cache
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\Gobang.exe.config
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Interop.WMPLib.dll
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\AxInterop.WMPLib.dll
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.csproj.ResolveComReference.cache
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.exe
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.pdb
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\Gobang.exe
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\Gobang.pdb
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\MaterialSkin.dll
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\Interop.WMPLib.dll
+D:\study\C#课程设计\Gobang\Gobang\Gobang\bin\Debug\AxInterop.WMPLib.dll
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.csprojResolveAssemblyReference.cache
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.Form1.resources
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.Properties.Resources.resources
+D:\study\C#课程设计\Gobang\Gobang\Gobang\obj\Debug\Gobang.csproj.GenerateResource.Cache
